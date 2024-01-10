@@ -1,31 +1,30 @@
 {
-    "name": "rpgf_calculator",
-    "version": "1.0.0",
-    "description": "RPGF Calculator",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/voteagora/rpgf_calculator.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/voteagora/rpgf_calculator/issues"
-    },
-    "homepage": "https://github.com/voteagora/rpgf_calculator#readme",
-    "dependencies": {
-      "@alch/alchemy-web3": "^1.4.7",
-      "csv-parser": "^3.0.0",
-      "csv-writer": "^1.6.0",
-      "dotenv": "^16.3.1",
-      "ethers": "^6.9.1",
-      "web3": "^4.3.0"
-    },
-    "devDependencies": {
-      "prettier": "^3.1.1"
-    }
+  "name": "rpgf_calculator",
+  "version": "1.0.0",
+  "description": "RPGF Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voteagora/rpgf_calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voteagora/rpgf_calculator/issues"
+  },
+  "homepage": "https://github.com/voteagora/rpgf_calculator#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.1",
+    "web3": "^4.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.1"
   }
-  
+}
