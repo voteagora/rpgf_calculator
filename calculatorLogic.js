@@ -7,7 +7,7 @@ const QUORUM = 17;
 const MIN_AMOUNT = 1500;
 const TOTAL_AMOUNT = 30000000;
 const MAX_ITERATIONS = 10;
-const inputFilePath = './output/outputVerifySig.csv';
+const inputFilePath = './input/outputVerifySig.csv';
 const outputFilePath = './output/outputResultsFinal.csv';
 
 // Function to read CSV file
